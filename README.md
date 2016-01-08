@@ -1,6 +1,6 @@
 # mytogglesample
-![](https://github.com/Sky-J/mytogglesample/blob/master/jdfw.gif)
-![](https://github.com/Sky-J/mytogglesample/blob/master/look.PNG)
+![](https://github.com/Sky-J/mytogglesample/blob/master/jdfw.gif)<br>
+![](https://github.com/Sky-J/mytogglesample/blob/master/look.PNG)<br>
 这个是一个安卓的togglebutton<br>
 使用方法~<br>
 
