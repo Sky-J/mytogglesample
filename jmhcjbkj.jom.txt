@@ -1,0 +1,45 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#   (use "git rm --cached <file>..." to unstage)
+#
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   AndroidManifest.xml
+#	new file:   gen/com/example/mytogglesample/BuildConfig.java
+#	new file:   gen/com/example/mytogglesample/R.java
+#	new file:   ic_launcher-web.png
+#	new file:   libs/android-support-v4.jar
+#	new file:   proguard-project.txt
+#	new file:   project.properties
+#	new file:   res/drawable-hdpi/ic_launcher.png
+#	new file:   res/drawable-ldpi/progress_thumb.png
+#	new file:   res/drawable-ldpi/progress_thumb_off.png
+#	new file:   res/drawable-ldpi/progress_thumb_off_selector.xml
+#	new file:   res/drawable-ldpi/progress_thumb_pressed.png
+#	new file:   res/drawable-ldpi/progress_thumb_selector.xml
+#	new file:   res/drawable-ldpi/toggle_bg_off.png
+#	new file:   res/drawable-ldpi/toggle_bg_on.png
+#	new file:   res/drawable-ldpi/toggle_selector.xml
+#	new file:   res/drawable-mdpi/ic_launcher.png
+#	new file:   res/drawable-xhdpi/ic_launcher.png
+#	new file:   res/drawable-xxhdpi/ic_launcher.png
+#	new file:   res/layout/activity_main.xml
+#	new file:   res/menu/main.xml
+#	new file:   res/values-sw600dp/dimens.xml
+#	new file:   res/values-sw720dp-land/dimens.xml
+#	new file:   res/values-v11/styles.xml
+#	new file:   res/values-v14/styles.xml
+#	new file:   res/values/dimens.xml
+#	new file:   res/values/strings.xml
+#	new file:   res/values/styles.xml
+#	new file:   src/com/example/mytogglesample/DisplayUtils.java
+#	new file:   src/com/example/mytogglesample/MainActivity.java
+#	new file:   src/com/example/mytogglesample/MyToggle.java
+#
+
