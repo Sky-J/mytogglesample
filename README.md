@@ -1,6 +1,9 @@
 # mytogglesample
 ![](https://github.com/Sky-J/mytogglesample/blob/master/jdfw.gif)
-这个是一个安卓的togglebutton 使用方法~
+这个是一个安卓的togglebutton<br>
+使用方法~<br>
+
+在layout中添加xml 
 ```Xml
    <com.example.mytogglesample.MyToggle
         android:id="@+id/MyToggle1"
@@ -8,6 +11,7 @@
         android:layout_height="wrap_content" >
     </com.example.mytogglesample.MyToggle>
 ```
+设置它的触发器
 ```Java
 myToggle=(MyToggle)findViewById(R.id.MyToggle1);
 myToggle.setOnToggleChanged(new OnToggleChanged()
